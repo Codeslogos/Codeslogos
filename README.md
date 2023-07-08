@@ -8,7 +8,7 @@
 - 💬 Связаться со мной:<br> **• [Telegram](https://t.me/votonroma)** <br>
 **• Email: romanpetushkovwork@gmail.com**
 
-- 📄 Мое резюме: [Резюме]()
+- 📄 Мое резюме: [Резюме](https://krasnoyarsk.hh.ru/applicant/resumes/view?resume=11baa71eff0c204eca0039ed1f73676e6a454c)
 
 
 <h3 align="left">Мой стек:</h3>
